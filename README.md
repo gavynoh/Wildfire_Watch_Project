@@ -271,6 +271,7 @@ Additional project documentation will be added here, including:
 
 **Gavyn Oh**  
 Duke University - Environmental Science & Policy
+Research Assistant, Spatial Ecology & Environmental Data Science (SEEDS) Lab
 
 Email: gavynoh@gmail.com / gto6@duke.edu
 Linkedin: gavynoh
