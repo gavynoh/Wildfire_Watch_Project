@@ -2,7 +2,7 @@
 
 A computer-vision prototype for detecting wildfire presence in satellite imagery and recording reported wildfire locations through an interactive web application.
 
-Developed through the **Delta AI Intensive Program** as an introductory exploration of machine learning and its potential applications in environmental monitoring.
+A personal introductory exploration of machine learning and its potential applications in environmental monitoring.
 
 ## Overview
 
