@@ -243,7 +243,7 @@ Potential next steps include:
 
 ## Project Context
 
-This project was developed as an introductory exploration of artificial intelligence and its potential applications to environmental challenges.
+This project was developed as an introductory exploration of artificial intelligence and its potential applications to environmental challenges. It served as a platform for me to learn Python, HTML, Javascript and the basics of Machine Learning.
 
 The project provided hands-on experience moving from an environmental problem to an end-to-end technical prototype involving:
 
