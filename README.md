@@ -270,7 +270,7 @@ Additional project documentation will be added here, including:
 ## Author
 
 **Gavyn Oh**  
-Duke University
+Duke University - Environmental Science & Policy
 
-Environmental Science & Policy  
-Spatial Ecology & Environmental Data Sciences (SEEDS) Lab
+Email: gavynoh@gmail.com / gto6@duke.edu
+Linkedin: gavynoh
